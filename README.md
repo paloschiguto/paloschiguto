@@ -1,7 +1,7 @@
 <h1 align="center">Olá, seja bem vindo!!</h1>
 
 <div align="center">
-  <a href="https://github.com/gabrielvanz">
+  <a href="https://github.com/paloschiguto">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=paloschiguto&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paloschiguto&layout=compact&langs_count=7&theme=radical"/>
 </div>
