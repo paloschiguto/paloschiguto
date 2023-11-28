@@ -1,4 +1,4 @@
-<h1 align="center">Olá, seja bem vindo!!</h1>
+<h1 align="center">Olá, seja bem vindo(a)!!</h1>
 
 <div align="center">
   <a href="https://github.com/paloschiguto">
