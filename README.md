@@ -10,10 +10,9 @@ Atualmente estudando desenvolvimento web e mobile com foco em
 HTML, CSS, JavaScript, Node.js e Flutter.
 </p>
 
----
 ##
 
-<div style="display: inline_block"><br> 
+<div style="display: felx "><br> 
   <img align="center" alt="HTML" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
@@ -23,7 +22,7 @@ HTML, CSS, JavaScript, Node.js e Flutter.
   <img align="center" alt="Flutter" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
----
+##
 
 <div align="center">
 
